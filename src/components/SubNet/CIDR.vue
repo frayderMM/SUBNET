@@ -1,3 +1,5 @@
+
+
 <template>
   <div class="container">
     <h1>Calculadora de subredes</h1>
@@ -308,4 +310,3 @@ input[type='number'] {
   background: #4527a0;
 }
 </style>
-
